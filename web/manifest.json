@@ -1,6 +1,6 @@
 {
-    "name": "test_web",
-    "short_name": "test_web",
+    "name": "lucy_web",
+    "short_name": "lucy_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
